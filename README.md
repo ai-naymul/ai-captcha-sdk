@@ -1,0 +1,2 @@
+### About
+An AI powered gateway to captchas.Users simply provide their Gemini API key, and the system navigates to their target site, overcomes CAPTCHA challenges in real time, and returns the clean page source—no manual intervention required.
