@@ -1,0 +1,87 @@
+### OS-generated files ###
+.DS_Store
+.DS_Store?
+*.swp
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+### IDE/Editor ###
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Vim
+*.swp
+*.swo
+*.un~
+
+### Build artifacts ###
+/build/
+/dist/
+/out/
+/target/
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+*.jar
+*.war
+
+### Dependencies ###
+/node_modules/
+/bower_components/
+/.venv/
+/venv/
+/env/
+/.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+### Logs and databases ###
+*.log
+*.sql
+*.sqlite
+*.sublime-project
+*.sublime-workspace
+
+### Testing ###
+/coverage/
+/.nyc_output/
+
+### Package managers ###
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+### Archives ###
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+### Documentation ###
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
